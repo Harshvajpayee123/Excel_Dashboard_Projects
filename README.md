@@ -24,4 +24,5 @@ Inventory Management: Tracking the stock of ingredients, coffee beans, and other
 Daily/Weekly Sales Summary: Automatically generates summaries of sales data by day, week, or month for easy performance analysis.
 Profit and Expense Calculations: Calculations to track revenue, operating expenses, and profit margins, helping the business owner assess financial health.
 Customer Preferences Analysis: Insights into best-selling products, customer preferences, and peak sales times, aiding in product offerings and promotions.
+![image alt](https://github.com/Harshvajpayee123/Excel_Dashboard_Projects/blob/main/Screenshot%202.png?raw=true)
 
