@@ -4,7 +4,7 @@ Project Title: Vishal Store Sales Management
 
 Project Description: The "Vishal Store Sales" project is a comprehensive Excel-based tool designed to track and analyze sales transactions for a retail store. The primary objective of this project is to facilitate efficient sales management by organizing and summarizing sales data in a structured manner.
 
-This project includes various sheets such as:
+This project includes various sheets, such as:
 
 Sales Transactions: Record of individual sales, including date, product, quantity sold, unit price, and total sales value.
 Product Inventory: Tracking stock levels, product details, and reorder points.
